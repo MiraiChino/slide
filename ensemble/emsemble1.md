@@ -5,10 +5,10 @@
 
 ---
 
+
 # ３人寄れば文殊の知恵
 
 ![70% center](img/mito.jpg)
-![mito.jpg](/attachment/5cecf501be82ab00593289dc)
 
 ---
 
@@ -24,7 +24,6 @@
 # 雄牛の重量当てコンテスト
 
 ![70% center](img/ushi.jpg)
-![ushi.jpg](/attachment/5cecf50ebe82ab00593289df)
 
 ---
 
@@ -131,6 +130,7 @@
 ---
 
 # 3.スタッキング（Stacking）
+
 元データをすべて予測した結果をさらに学習する手法
 任意性が高く黒魔術らしい
 
@@ -139,16 +139,24 @@
 ---
 
 # おまけ：Kaggleにおけるスタッキング
+
 チーム内で分担してモデルを作成してスタッキング
+
 ![center](img/2.png)
 
 ---
 
 # まとめ
+
 - 集団が賢いのは、他人の考えになびかず、一人ひとりが自分の考えで判断しているから
 - 同様に、機械学習でもアンサンブル学習を使うと精度を改善できる
 
-to be continued...
+---
+
+# 次回予告
+
+アンサンブル学習でBitcoinの価格を予測する
+〜とりあえず実装してみた編〜
 
 ---
 
@@ -166,4 +174,3 @@ to be continued...
 - [Kaggle Ensembling Guide | MLWave](https://mlwave.com/kaggle-ensembling-guide/)
 - [A Kaggler’s Guide to Model Stacking in Practice | No Free Hunch](http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice/)
 
----
